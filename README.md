@@ -1,2 +1,2 @@
-# Financial-Derivatives-Coursework
-Python code for the final year BSc Physics Financial Derivatives Module
+# Financial-Derivatives
+Analysis around pricing financial derivatives.
